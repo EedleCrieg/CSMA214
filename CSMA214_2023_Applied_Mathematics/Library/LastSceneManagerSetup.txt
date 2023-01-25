@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/1-Trig/1-26-Trig.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
